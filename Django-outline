@@ -1,0 +1,31 @@
+my_project/
+│
+├── my_app/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── views.py
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── treasurer/
+│   │   │   ├── income_statement.html
+│   │   │   ├── unpaid_debts.html
+│   │   ├── coach/
+│   │   │   ├── send_message.html
+│   │   │   ├── manage_members.html
+│   │   │   ├── manage_coaches.html
+│   │   ├── member/
+│   │   │   ├── login.html
+│   │   │   ├── register.html
+│   │   │   ├── schedule_practice.html
+│   │   │   ├── payment.html
+│   ├── tests.py
+│   └── urls.py
+│
+├── my_project/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+│
+├── manage.py
+└── README.md
